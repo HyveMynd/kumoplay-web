@@ -8,6 +8,7 @@
   },
   "author": "HyveMynd",
   "license": "ISC",
+  "git": "git@bitbucket.org:HyveMynd/kumoplayweb.git",
   "dependencies": {
     "membership": "HyveMynd/kumoplay-membership",
     "body-parser": "^1.4.3",

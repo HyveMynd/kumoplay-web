@@ -16,23 +16,23 @@
 8 verbose install     'morgan' ] ]
 9 info preinstall kumoplayweb@0.0.1
 10 verbose readDependencies using package.json deps
-11 verbose cache add [ 'membership@git://github.com/HyveMynd/kumoplay-membership',
-11 verbose cache add   null ]
-12 verbose cache add name=undefined spec="membership@git://github.com/HyveMynd/kumoplay-membership" args=["membership@git://github.com/HyveMynd/kumoplay-membership",null]
-13 verbose parsed url { protocol: null,
-13 verbose parsed url   slashes: null,
-13 verbose parsed url   auth: null,
-13 verbose parsed url   host: null,
-13 verbose parsed url   port: null,
-13 verbose parsed url   hostname: null,
-13 verbose parsed url   hash: null,
-13 verbose parsed url   search: null,
-13 verbose parsed url   query: null,
-13 verbose parsed url   pathname: 'membership@git://github.com/HyveMynd/kumoplay-membership',
-13 verbose parsed url   path: 'membership@git://github.com/HyveMynd/kumoplay-membership',
-13 verbose parsed url   href: 'membership@git://github.com/HyveMynd/kumoplay-membership' }
-14 verbose already installed skipping body-parser@^1.4.3 /home/andres/Hyvemynd/NodeProjects/kumoplay/kumoplayweb
-15 verbose already installed skipping express@^4.6.1 /home/andres/Hyvemynd/NodeProjects/kumoplay/kumoplayweb
+11 verbose already installed skipping express@^4.6.1 /home/andres/Hyvemynd/NodeProjects/kumoplay/kumoplayweb
+12 verbose cache add [ 'membership@git://github.com/HyveMynd/kumoplay-membership',
+12 verbose cache add   null ]
+13 verbose cache add name=undefined spec="membership@git://github.com/HyveMynd/kumoplay-membership" args=["membership@git://github.com/HyveMynd/kumoplay-membership",null]
+14 verbose parsed url { protocol: null,
+14 verbose parsed url   slashes: null,
+14 verbose parsed url   auth: null,
+14 verbose parsed url   host: null,
+14 verbose parsed url   port: null,
+14 verbose parsed url   hostname: null,
+14 verbose parsed url   hash: null,
+14 verbose parsed url   search: null,
+14 verbose parsed url   query: null,
+14 verbose parsed url   pathname: 'membership@git://github.com/HyveMynd/kumoplay-membership',
+14 verbose parsed url   path: 'membership@git://github.com/HyveMynd/kumoplay-membership',
+14 verbose parsed url   href: 'membership@git://github.com/HyveMynd/kumoplay-membership' }
+15 verbose already installed skipping body-parser@^1.4.3 /home/andres/Hyvemynd/NodeProjects/kumoplay/kumoplayweb
 16 verbose cache add name="membership" spec="git://github.com/HyveMynd/kumoplay-membership" args=["membership","git://github.com/HyveMynd/kumoplay-membership"]
 17 verbose parsed url { protocol: 'git:',
 17 verbose parsed url   slashes: true,
@@ -51,8 +51,8 @@
 20 verbose lock git://github.com/HyveMynd/kumoplay-membership /home/andres/.npm/9b168db4-com-HyveMynd-kumoplay-membership.lock
 21 verbose addRemoteGit [ 'git://github.com/HyveMynd/kumoplay-membership', 'master' ]
 22 verbose already installed skipping jade@^1.4.2 /home/andres/Hyvemynd/NodeProjects/kumoplay/kumoplayweb
-23 verbose already installed skipping method-override@^2.1.1 /home/andres/Hyvemynd/NodeProjects/kumoplay/kumoplayweb
-24 verbose already installed skipping morgan@^1.2.0 /home/andres/Hyvemynd/NodeProjects/kumoplay/kumoplayweb
+23 verbose already installed skipping morgan@^1.2.0 /home/andres/Hyvemynd/NodeProjects/kumoplay/kumoplayweb
+24 verbose already installed skipping method-override@^2.1.1 /home/andres/Hyvemynd/NodeProjects/kumoplay/kumoplayweb
 25 error git clone git://github.com/HyveMynd/kumoplay-membership Cloning into bare repository '/home/andres/.npm/_git-remotes/git-github-com-HyveMynd-kumoplay-membership-9b168db4'...
 25 error git clone git://github.com/HyveMynd/kumoplay-membership
 25 error git clone git://github.com/HyveMynd/kumoplay-membership fatal: remote error:

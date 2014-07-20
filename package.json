@@ -1,5 +1,5 @@
 {
-  "name": "kumoplayweb",
+  "name": "kumoplay-web",
   "version": "0.0.1",
   "description": "Kumoplay Website",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "author": "HyveMynd",
   "license": "ISC",
-  "git": "git@bitbucket.org:HyveMynd/kumoplayweb.git",
+  "git": "git@github.com:HyveMynd/kumoplayweb.git",
   "dependencies": {
     "membership": "HyveMynd/kumoplay-membership",
     "body-parser": "^1.4.3",

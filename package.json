@@ -1,0 +1,20 @@
+{
+  "name": "kumoplayweb",
+  "version": "0.0.1",
+  "description": "Kumoplay Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HyveMynd",
+  "license": "ISC",
+  "dependencies": {
+    "membership": "HyveMynd/kumoplay-membership",
+    "body-parser": "^1.4.3",
+    "express": "^4.6.1",
+    "express-session": "^1.6.5",
+    "jade": "^1.4.2",
+    "method-override": "^2.1.1",
+    "morgan": "^1.2.0"
+  }
+}

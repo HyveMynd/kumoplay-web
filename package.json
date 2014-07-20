@@ -8,7 +8,10 @@
   },
   "author": "HyveMynd",
   "license": "ISC",
-  "git": "git@github.com:HyveMynd/kumoplayweb.git",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:HyveMynd/kumoplayweb.git"
+    },
   "dependencies": {
     "membership": "HyveMynd/kumoplay-membership",
     "body-parser": "^1.4.3",
